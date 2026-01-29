@@ -1,4 +1,4 @@
-# Comparison-of-two-ML-algorithms-to-compute-optical-properties-of-photonic-crystal-fiber
+# Comparison of two ML algorithms to compute optical properties of photonic crystal fiber
 
 This project explores the use of machine learning to predict key optical properties of photonic crystal fibers (PCFs), including the **effective index** and **effective mode area**
 
